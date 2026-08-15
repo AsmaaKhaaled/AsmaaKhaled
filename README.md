@@ -12,7 +12,7 @@
 </h5>
 <br>
 <p align="center">
-    Hi, I'm <b>Asmaa Khaled</b>, a <b>Full-Stack Software Developer</b> with 1.5+ years of experience from Egypt 🇪🇬
+    Hi, I'm <b>Asmaa Khaled</b>, a <b> Software Developer</b> with 1.5+ years of experience from Egypt 🇪🇬
     <br>
     <br>
     🎓 <b>ITI & NTI Graduate</b> in Full-Stack & Frontend Development
